@@ -1,0 +1,728 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A fourth word to the wise, or A plaine discovery of Englands misery, and how the same may be redressed; set forth in a letter written by a prisoner in the Fleete to Commissary Generall Ireton, and published by a friend of his and lover of his country for Englands good.</title>
+            <author>Musgrave, John, fl. 1654.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 56 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89426</idno>
+            <idno type="STC">Wing M3148</idno>
+            <idno type="STC">Thomason E391_9</idno>
+            <idno type="STC">ESTC R201553</idno>
+            <idno type="EEBO-CITATION">99862052</idno>
+            <idno type="PROQUEST">99862052</idno>
+            <idno type="VID">114201</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89426)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114201)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 62:E391[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A fourth word to the wise, or A plaine discovery of Englands misery, and how the same may be redressed; set forth in a letter written by a prisoner in the Fleete to Commissary Generall Ireton, and published by a friend of his and lover of his country for Englands good.</title>
+                  <author>Musgrave, John, fl. 1654.</author>
+               </titleStmt>
+               <extent>16, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1647]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>A prisoner in the Fleete = John Musgrave, who has signed the letter on page 13.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Annotation on Thomason copy: "By John Musgrave"; "June 8th 1647".</note>
+                  <note>Imperfect; trimmed at foot, affecting text of some pages.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Denial of justice --  England --  Early works to 1800.</term>
+               <term>Justice, Administration of --  England --  Early works to 1800.</term>
+               <term>Detention of persons --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:114201:1"/>
+            <pb n="1" facs="tcp:114201:1" rendition="simple:additions"/>
+            <head>A fourth word to the wiſe, OR A plaine diſcovery of <hi>Englands miſery,</hi> and how the fame may be redreſſed; ſet forth in a Letter written by a Priſoner in the <hi>Fleete</hi> to Commiſſary Generall <hi>Ireton,</hi> and publiſhed by a friend of his and lover of his Country for <hi>Englands</hi> good.</head>
+            <p>
+               <hi>PLutarch</hi> relates, that a certain poore old woman often petitioning King <hi>Philip</hi> of <hi>Macedon</hi> to have her cauſe heard; the King at length gave her this anſwer, that he was not at leaſure, ſhe inſtantly re<g ref="char:EOLhyphen"/>plyed <hi>noli itaque Reguari,</hi> do not then raign: Which ſpeech the King admiring forthwith not only heard her cauſe and complaint, but of many others in his proper perſon. O that our houſe of Commons would imitate <hi>Philip</hi> the heathen, and no longer put us off to partiall and juſtice-delay<g ref="char:EOLhyphen"/>ing, I had almoſt ſaid juſtice-perverting Committees! Much and long have I ſollicited all ſuch as ſit in the houſe in the right of our Country, ex<g ref="char:EOLhyphen"/>cept your ſelf who hath been long a Nonreſident, to preſent my Coun<g ref="char:EOLhyphen"/>tries grievances and complaints, and to have rhem put in away of tryall; But they not only tell me that they have no leaſure, but that they will not, to their ſhame be it ſpoken, The heathen will Judge them, Nay they were not onely the chiefe inſtruments of geting me caſt into priſon, fearing I ſhould by ſome other hand bring on my Countries cauſe to hear<g ref="char:EOLunhyphen"/>ing: but moſt perfideouſly they have got ſuch in authority with us, as are notorious Delinquents declared traytors, not yet compounded for their treaſons (for treaſons be now made ſalable, and but amony matter) though they profeſſe to favour honeſt men heare, and ſuch as be called Indepen<g ref="char:EOLhyphen"/>dants; Yet when I got ſuch men of approved and known integrety, to be a Sub-Committee for accompts for <hi>Weſtm<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rland</hi> and <hi>Cumberland;</hi> they procured them upon a falſe certificate to be put out of Commiſſion, and others to be in their ſtead, as were delinquents and profeſſe enemies to all honeſt men, and in particular to Independants, Nay they got Com<g ref="char:EOLhyphen"/>miſſions for Oyre and Terminer, and Goale delivery for our Country; but not one of the Commiſſioners therein named living in our Country, other then Delinquents, and againſt whom whom there be ſeverall char<g ref="char:EOLhyphen"/>ges of high nature, two yeares agoe exhibited to the Houſe of <hi>Commons;</hi>
+               <pb n="2" facs="tcp:114201:2"/>which we have much laboured to bring to exammination, but cannot g<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> it done; Yet have they been ſo countenaunced, and borne out by th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Lord <hi>Wharton,</hi> Sir <hi>Wilfride Ermyn,</hi> Mr. <hi>Blackſton,</hi> and ſome others I coul<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> name as Sir <hi>Willfride Lawſon,</hi> was continued high Shrieffe for the mo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> part of the laſt two yeares; who hath more tira-nized and exerciſed <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> greater arbitrary power, committed farre greater inſolences and ounage<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> then ever the Earle of <hi>Stafford</hi> did in this Kingdom or <hi>Ireland</hi> di<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, Not t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſpeak<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of his late committing men to priſon for not conforming to Stat<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> worſhip, neither how he and other Juſtices cauſed to be indicted 3<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> perſons, the <hi>Parliaments</hi> cordiall friends at Midſummer Seſſions laſt, fo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> not repairing to the ſteeple houſes and book of Common-prayer, M. <hi>Briſ<g ref="char:EOLhyphen"/>coe</hi> the Lord <hi>Whartons</hi> learned Steward his now boſome friend, and by him preferred to be a Juſtice of peace, Deputy Lieviennant Committe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> man and Commiſſioner of Oyre and Terminer; Yet while the Count<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> was in the enemies hands, the Gentleman joyned with the enemy, to<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> an Oath of obedience to the Commiſſioners of Array, and ſent out ho<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> and Armes againſt the <hi>Parliament.</hi> At Midſummer Seſſions laſt, he very learnedly diſcourſed in his charge, how there were a new kind of Recu<g ref="char:EOLhyphen"/>ſant<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> worſe then Papiſts, (for indeed Papiſts he protects) and not one Papiſt troubled for his Religion there Meaning the ſeperatiſts and Inde<g ref="char:EOLhyphen"/>pendants, and that they were the cauſe of all theſe troubles, and the ene<g ref="char:EOLhyphen"/>mies of the Kingdom, whereupon the poore pe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ple were indicted: This is the beſtoffice the Lord <hi>Wharton</hi> ever did for us: I know many here have a good opinion of the Lord <hi>Wharton,</hi> and the rather for that he hath brought you, Mr. <hi>Lawrence,</hi> and Mr. <hi>Sallaway</hi> into the houſe; Indeed you have been for the greateſt part abſent, ſo we could not exſpect much from you: neither could we well informe you of the true ſtate of our Country; but Mr. <hi>Lawrence</hi> and Mr. <hi>Sallaway</hi> have both of them been with me; yet did me nor my Country no good, them I acquainted how the Lord <hi>Wharton</hi> had uſed us. I told them how I got our Papers pre<g ref="char:EOLhyphen"/>ſented to the Houſe by the <hi>Scots</hi> Commiſſioners mean s, which I did with Mr. <hi>Rigby</hi> our kind friend his approbation and good liking, who had con<g ref="char:EOLhyphen"/>ference with the <hi>Scots</hi> Commiſſioners about our buſineſſe, and for a good compliance betwixt them and us, for the further quiet and eaſe of honeſt men in our pa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s; which had in all likelihood been brought about, had not Mr. <hi>Blackſton</hi> abuſed our friends in the houſe, by miſinformation, in making our friends beleeve, Mr. <hi>Borwis</hi> was <hi>Independent</hi> and <hi>Scottiſh,</hi> and that I carried one the <hi>Scottiſh</hi> deſigne, which was falſe, though I ac<g ref="char:EOLhyphen"/>knowledge I was beholding to ſome of the <hi>Scots</hi> Commiſſioners for cur<g ref="char:EOLhyphen"/>teſies rec<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ived, all which is ſince clearely manifeſted; For no ſooner was I caſt into priſon, but Mr. <hi>Barwis</hi> thinking to make the <hi>Scots</hi> in
+<pb n="3" facs="tcp:114201:2"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> baſe way, his friends upon a certificate from <hi>Lawſon, Briſco,</hi> and <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e reſt of the Committee againſt the Church in <hi>Cumberland,</hi> complai<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d to the Northern Committe here, that in the beginning of the Parlia<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ent their was but two Sectaries: meaning Mr. <hi>Crackanthrop</hi> and my ſelf; <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> we were increaſed to a hundred, did preach in Private-houſes, refu<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d to Baptiſe our children and made their miniſtry contemptible, and if <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e were ſuffered would grow to greater numbers, deſiring ſome order for <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>reſſing us; But having no countenance from the Committee, and re<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ving a checke by ſome Parliament man, went away in chafe much <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>; ſaying, though he could not then be heard, time would come he <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>bted not but to have us all ſuppreſſed. I, thinke Colonell <hi>Liburne</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> then preſent, he can tell you the particular paſſages; For Lievtennant Colonell <hi>Lilburne</hi> his brother was the man that told it me. I further told <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>. <hi>Lawrence,</hi> how Mr. <hi>Prinne</hi> upon ſight of the <hi>Scotch</hi> Papers given into <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e Houſe, very readely procured at my inſtance a Commiſſion to honeſt <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>oved men, all or moſt of them <hi>Independant<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> to be a Sub-Committee of <gap reason="illegible" resp="#PDCC" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap>pts for <hi>Weſtmerland</hi> and <hi>Cumberland,</hi> not one I named being either <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>quent, accountable, or perſecuter, yet all of them ſuffi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ient men for <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> imployment, and of conſiderable eſtates, my ſelf being one of the <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>neſt, that ſame being put upon me by Mr. <hi>Prinne</hi> undeſerved. Yet <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Lord <hi>Wharton</hi> did under his hand certify to the Grand-Committee <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> accounts here, that the men were of no eſtates and of ſo mean equa<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>y, as they could neither write, no raed, nor caſt up an account; Where<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pon our Commiſſion was revoked. And upon the like falſe certificat<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>om the Lord <hi>Wharton</hi> and Sir <hi>William Ermyn,</hi> others oppointed in o<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>d, who were notorious Delinquents and themſelves accountable, and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> diſabled by Ordnance of <hi>Parliament</hi> to be of that Committee; Thus the <hi>Parliament</hi> was abuſed, and our Country wronged, I dare really ſay or Country was damnified 10 thouſand pounds: and the <hi>Parliament</hi> loſt thereby a hundreed thouſand pounds. Herein the Lord <hi>Wharton</hi> did a double wrong to us and the State. Firſt, in putting out honeſt men, and commending and putting in Commiſſion Knaves and Traytors. Thus while the Lord <hi>Wharton</hi> would ſeeme a Saint, he verefies the old proverb: the white Divill is moſt dangerous. The Lord <hi>Wharton</hi> being in the Country, Mr. <hi>Crackanthrop</hi> was commended to him, and put in the laſt for the ſtanding Committee, but he put him out, Saying, he was an <hi>Independant,</hi> and non <hi>Covenanter.</hi> Thus he plaies <hi>Machevill,</hi> and <hi>Janu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> like, heere <hi>Independent</hi> ſaith, but in the North an oppoſite and <hi>Presbi-ter;</hi> but to get out the Commiſſions of Oyre and Terminer, and Goale delivery <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> our Country, the Commiſsioners therein na-med living in our Coun<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>y potorious Delinquents, and profeſſed enemies to all honeſt men, and
+<pb n="4" facs="tcp:114201:3" rendition="simple:additions"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="5" facs="tcp:114201:3" rendition="simple:additions"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="4" facs="tcp:114201:4"/>and perſecuters of <hi>Independants</hi> he was very active. If you doubt of this, the Clarke of the Crowne Office will better and further ſatisfie you therein; the Lord <hi>Wharton,</hi> Mr. <hi>Allen</hi> and Mr. <hi>Lawrence,</hi> for you were abſent before the Commiſsions were ſealed or given out, were deſired to prevent or ſtay them, and acquainted with the exceptions given in to Mr. Speaker, and your father in law <hi>L. G.</hi> againſt them. Yet they did paſſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and ſo now, the declared Traytors have power over life and death: <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> thing the King never did before the Warrs begun. Now I acquainted Mr. <hi>Lawience</hi> (but he ſits upon the pinacle of the Temple) and the Lord <hi>Wharton,</hi> how the Committee of <hi>Cumberland</hi> being Delinquents, had <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> on <hi>Garth</hi> their Soliciter and Agent, much countenanced by the Lord <hi>Wharton</hi> and <hi>Barwis,</hi> which <hi>Garth</hi> is a Delinquent and a poore ſhufling Atturney, and a profeſſed enemy to all honeſt men. Yet this fellow is allowed by the Committee 100 <abbr>l.</abbr>
+               <hi>per annum,</hi> for waiting here and ſtop<g ref="char:EOLhyphen"/>ing all complaints againſt the Committee, but the poore Country p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ies for all. All this I am able to prove, and herewith I acquainted the Lord <hi>Wharton.</hi> Your Father in law in your abſence promiſed to do much for us, but did nothing; many letters I wrote to him, I could wiſh he now act not againſt us, if he do, it may prove, his owne deſtruction, 2500. <abbr>l.</abbr>
+               <hi>per annum</hi> given him, will not bear him out, when his friends<g ref="char:punc">▪</g> be cut off, I have uſed all means poſſible t bring our Countries cauſe to try all, but by Mr. <hi>Lawrence,</hi> Mr. <hi>Allen,</hi> Mr O. <hi>Salloway,</hi> and Lord <hi>Wharton</hi> failing us, and their double-dealing, I have laboured but in vain; therefore, I ſay to you, and as many as ſit in the Houſe, in right of our Country, even a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the old woman ſaid to King <hi>Philip,</hi> if you have not leiſure, or will no<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> preſent our juſt Complaints and Petitions, come forth, and ſit no longe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> there for our Country.</p>
+            <p>One thing I had almoſt paſſed by, in reference to the Lord <hi>Wharton,</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> thing worthy your obſeruation, a poor woman of our Country, having been at <hi>London</hi> about Law ſuites, upon her return home, at the inſtance &amp; complaint of <hi>Henry</hi> and <hi>Iames Pearſon,</hi> two Delinquents, brothers &amp; At<g ref="char:EOLhyphen"/>tornies, was carryed with her husband before Sir <hi>Wil. Lawſon,</hi> a Com<g ref="char:EOLhyphen"/>miſſioner of Array, and by his direction the woman was bound in a Care laid on her back, with her head ahd face upwards under the horſe tayle, &amp; the horſe forced to gallop with her, to the endangering her life; and be<g ref="char:EOLhyphen"/>fore they put her in priſon, ſtript her to her ſmock; and after Sir <hi>Wilford Lawſon</hi> gave direction to lay Irons upon her; and all this, for no other cauſe, then that ſhe was (as they pretended) an Intelligencer for the Par<g ref="char:EOLhyphen"/>liament, and for ſearching her for Parliaments papers: Yet my L. <hi>Wharton</hi> ſo pittifull he is to the poor, and regardfull of his Oath and Covenant <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb n="5" facs="tcp:114201:4"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ch talkt of, as he will not preſent her Petition to the houſe of Lords, tel<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ng her, he can give her no encouragement to petition, though M. <hi>Bradſhaw</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Lawyer did entreat him to do it.</p>
+            <p>Now conſider our condition, I aſſure you, the whole Militia and autho<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ty in our Country, are ſetled in the hands of profeſſed Enemies, &amp; known Delinquents, not one that hath been faithfull to the Parliament, or is a lo<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>r of his Country, hath any command or office with us. Therefore, if you <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>band your Forces before theſe Newtrals and Delinquents, and great op<g ref="char:EOLhyphen"/>preſſors be removed and ſecured, we are betrayed by you, and may ſay, you purpoſely gave us up into the hand of the Enemy, having made firſt what you could out of vs your ſelves.</p>
+            <p>For if this Army were broken, which under God is the ſtrength of the Kingdome, in one moneth the Enemy without any difficulty may poſſeſſe themſelves of the whole North, and doubtleſſe will do it; the Iriſh may <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d with us in 11 hours, <hi>premoniti, praemuniti.</hi> You ſee of late how we have <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> enthralled, under the name of Conformity perſecuted, and under noti<g ref="char:EOLhyphen"/>on of a priviledge, a new kind of tyramie ſet up, It belongs to wiſe men to <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>e-ſee and prevent a miſchiefe before it happens, and it is the reward of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> unhappy, and fooles, to lament it to late, when woe is come upon them; the medicine and phyſick that is miniſtred out of ſeaſon, is killing &amp; works <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to the benefit of the Patient; the counſell is without fruit that comes af<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> the fact, and it will be to late to apply the remedy after the evill be fal<g ref="char:EOLhyphen"/>len upon us: where tyrants turn their authority to oppreſſ: and deſtroy innocents, to hold up armes for our own<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſafety, can be no breach of obe<g ref="char:EOLhyphen"/>dience.</p>
+            <p>If you wiſh our Countries welfare indeed, &amp; be the men you profeſſe, &amp; be not carryed away with ambitious and covetous deſires of honor and ri<g ref="char:EOLhyphen"/>ches, and under ſhadow of the weale and benefit publique reſpecting-ſelfe, and particular intereſts, making Religion and Liberty a cloak to your great<g ref="char:EOLhyphen"/>neſſe and own profit, you will not expect and temporize till we be brought to the laſt extremity, for then our recourſe to remedies will be to late, and we ſhall ſtand fondly to lament the harme and miſchiefe which wee might have eaſily before avoided. It is to late to provoke to vomite, when the poy<g ref="char:EOLhyphen"/>ſon hath pierced the bones.</p>
+            <p>Therefore, gird up your loynes like men of reſolution, and do not forbear while you have time and opportunity to provide for the ſafety of your ſelves <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd Country, be not curious in conſcience, to defend and ſtand for law, li<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erty, and juſtice, then which you cannot offer to God a temporall ſacrifice, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>re acceptable &amp; worthy. <hi>Pulcrum eſt pro patria mort,</hi> the Heathen could <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, be wiſe, its ſaid, the Engliſh be, <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>agis a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mi poten<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es q<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>am politici,</hi> when
+<pb n="6" facs="tcp:114201:5"/>
+               <hi>William</hi> the Conqueror, contrary to his oath, begun to oppreſſe the Engliſh, and would have brought them under the yoke of the Norman law, the Eng<g ref="char:EOLhyphen"/>liſh counting the ſame no other then their fetters, ſought to caſt them off, made gatherings, were fully reſolved to make their ſword their Judge, if the King would not confirme their liberties, the King by his Eſpials underſtan<g ref="char:EOLunhyphen"/>ding the increaſe of their powers, &amp; knowing to his reſtleſſe trouble, the un<g ref="char:EOLhyphen"/>willing ſubject o<g ref="char:cmbAbbrStroke">̄</g> of the Engliſh to ſlavery, being a very politike fair ſpoken Prince, did wind himſelf into their good opinious ſo far, as they laid downe their armes, and he for his part, fearing to loſe the Crowne with ſhame, which he had got with effuſion of ſo much bloud, gave his oath to obſerve, and inviolaby to keep the ancient lawes of the Land, eſpecially the lawes of King <hi>Edward</hi> the Confeſſor, which as the event proved, he little meant to do it.</p>
+            <p>Peace being thus eſtabliſhed, and the Kings oath received, the Engliſh Ar<g ref="char:EOLhyphen"/>mies disband themſelves, as dreaming they had arived at the haven of their wiſhed deſires, and hoping the greateſt ſtormes of their dangers had beene over and paſt, which preſently proved but a dreame indeed, a vain ſurmiſe. For <hi>KiWilliam</hi> working upon advantage, began extreamly to hate the Re<g ref="char:EOLhyphen"/>bels <hi>(ſo were they then called that affected liberty)</hi> and with full reſolution of their diſtraction, ſuddenly ſet upon them apart, which he durſt not doe, be<g ref="char:EOLhyphen"/>ing united and in a body: So that ſlaying many, impriſoning others, and perſecuting all with fire and ſword, well was hee that could firſt be gone. <hi>K. Stephen</hi> (his ſon) uſed the like policy to confirme the Engliſh unto him, againſt his elder brother <hi>Robert</hi> of <hi>Normandy,</hi> promiſing he would reform the over-heard lawes of his Predeceſſors, and mollifie the extreames therof to the peoples own liking, under his Seale and Charter, and by his Charter did a on firme and reſtore the ancient lawes; but thoſe immunities (ſaith my Author) he granted rather to cleere their eyes, then with any purpoſe to manacle his own hands with ſuch parchment chains: much like hath ever bin the event &amp; ſucceſſe of Court wars, where the making of new parties &amp; fa<g ref="char:EOLhyphen"/>ctions, without deſtruction of old friends, we cannot be received, &amp; truſted by old Enemies: Theſe, ſay the French, be the blowes of the old art of fen<g ref="char:EOLhyphen"/>cing, at this Game <hi>England</hi> is become very skilfull, and is not to learne. For how often hath <hi>Magna Charta,</hi> by <hi>Oaths, by Kings, by Parliaments,</hi> bin con<g ref="char:EOLhyphen"/>firmed, but what fruit have the people over received thereby? how ma<g ref="char:EOLhyphen"/>ny bloudy battels have been of late fought crowned with victory, for re<g ref="char:EOLhyphen"/>gaining <hi>Englands</hi> liberties?</p>
+            <p>But after all this, <hi>are we the more free,</hi> Never more Oaths, Vowes, Prote<g ref="char:EOLhyphen"/>ſtations, and Covenants have been contrived, made, and taken, for doing im<g ref="char:EOLhyphen"/>partiall Juſtice, and bringing the Enemies to condigne puniſhment, <hi>yet the
+<pb n="7" facs="tcp:114201:5"/>out-cries for juſtice never ſo loud</hi> ſo long: oppreſſions, exactions, and bold<g ref="char:EOLhyphen"/>neſſe to offend ſo never great, ſo generall. We are made more miſerable and wretched, in ſeeking and wayting for Juſtice, then by the Enemy in oppreſ<g ref="char:EOLhyphen"/>ſing and deſtroying: illegall co<g ref="char:cmbAbbrStroke">̄</g>mitments, and long impriſonments of the High-Commiſſion, Scar-chamber, and Councell-Table,<note place="margin">Sir Pe<g ref="char:EOLhyphen"/>ter Tem<g ref="char:EOLhyphen"/>ple a Par<g ref="char:EOLhyphen"/>liament man did moſt cru<g ref="char:EOLhyphen"/>elly beat one for asking <hi>25.</hi>
+                  <abbr>l.</abbr> which he owed him f r Oates for his horſes, but as yet none o<g ref="char:EOLhyphen"/>ther pay<g ref="char:EOLhyphen"/>ment then blowes hath the honeſt man had.</note> were never ſo many ſo frequent, as by our Lords and Committees of late, betwixt Prorogative and Priviledge, we are broken as Corn in a Mill; yet I confeſſe, never did I heare, the <hi>King</hi> did ever beate or aſſault any for demand of a juſt debt, as ſome Parliament men have done their poor Creditors, for asking, or rather petitioning for their owne, as for the capitall Enemies of the <hi>Kingdome,</hi> Vi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s of our lawes, perverters of juſtice, and deſtroyers of our liberties, and ſuch as have been declared Traytors, or ſo farre from being brought to the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eate of Juſtice, as that they are not only permitted to walke in <hi>Weſtmin<g ref="char:EOLhyphen"/>ter</hi> Hill in their ſilkes, but are preferred to the higheſt places of honour, command and au hority in the Common-wealth, though wee have our <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ſes, chambers, and ſtudies broken up, and ſearched for pre<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ded Pam<g ref="char:EOLhyphen"/>phets, bookes and writings and our ſelves, and wives, and ſervants, caſt <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> priſon, before any legal charge or conviction; yet cannot wee bee heard againſt the common Enemies of the Kingdome, nor have them <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ought in to anſwer, our legal charges exhibited againſt them confeſſe, lybelling againſt any private perſon, or againſt a Magiſtrate, or other pub<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>e perſon, is a great offence, &amp; deſerves ſevere puniſhment. For though the Lybell be but againſt one, yet doth the ſame provoke all of the ſame <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ly, kindred or ſociety to revenge, and ſo conſequently cauſes quar<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s, breach of peace, and oftentimes much bloud ſhed, and other great in<g ref="char:EOLhyphen"/>conveniencies, if the Lybell be againſt a Magiſtrate, or o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>her publique per<g ref="char:EOLhyphen"/>ſon the offence is the grea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er.</p>
+            <p>
+               <note place="margin">But bal<g ref="char:EOLhyphen"/>lad mon<g ref="char:EOLhyphen"/>gers take liberty to ſing Lybels againſt King &amp; Parlia<g ref="char:EOLhyphen"/>ment in open ſtreets yet un<g ref="char:EOLhyphen"/>queſtion<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note>For, as learned <hi>Cook</hi> ſaith, that concerneth not only the breach of peace, but is a ſcandal of the government.</p>
+            <p>For, ſaith <hi>Cooke,</hi> What greater ſcandal of the government can there be, th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n to have wicked and corrupt Magiſtrates to be appointed and deputed to govern the people, greater imputation to the State cannot be, then to ſuffer ſuch corrupt men to ſit in the ſacred Seate of Juſtice, or to have any medling in or concerning the adminiſtration of Juſtice. Therfore it is not to the purpoſe (ſaith <hi>Cook</hi>) whether the Lybel be true, or the party againſt whom it is made be of good fame, or evill, for in a fetled State of Govern<g ref="char:EOLhyphen"/>ment, the party grieved ought to complaine of the injury or wrong done in an ordinary courſe of Law, and by no meanes to revenge himſelfe, e<g ref="char:EOLhyphen"/>ſpecially by that odious courſe of Lybelling, that paſſionate expreſſi<g ref="char:EOLhyphen"/>on
+<pb n="8" facs="tcp:114201:6"/>on of <hi>Iob</hi> the <hi>Mirrour of patience,</hi>
+               <note place="margin">But in Parlia<g ref="char:EOLhyphen"/>ment time men have no other way to make knowne their gri<g ref="char:EOLunhyphen"/>vances when pe<g ref="char:EOLhyphen"/>titions be rejected, but by publiſh<g ref="char:EOLhyphen"/>ing the ſame in print. By Law<g ref="char:EOLhyphen"/>ſons in<g ref="char:EOLhyphen"/>direct meanes being then high Sheriffe and H. Pearſon his under Sheriffe a Delin<g ref="char:EOLhyphen"/>quent, ſir Wil. Ar<g ref="char:EOLhyphen"/>myns ſon was re<g ref="char:EOLhyphen"/>turned Sheriffe of the Shire for Cumber<g ref="char:EOLhyphen"/>land.</note> when he was libelled againſt, may ſhe how forceable libelling is to provoke impatience, and make contentio<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and ſtirre up ſtrife, they were, ſaith the children of ſooles, yea children <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> baſe men, they were viler then the earth, and now I am there ſong, yea, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> am there by word, <hi>Iob</hi> 30. <hi>v.</hi> 8. &amp; 9. out of this moral conſideration the <hi>R<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>mans,</hi> made an excellent Law for preventing this manner of lybelling, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> odicus to all men, and pernicious to the State, that without any danger, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ven one of <hi>Romes</hi> Senate, might be accuſed by any private man, and if h<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> proved the charge, he received a reward: otherwiſe ſeverely puniſhed. B<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the defamer or lybeller was to be baniſhed, by which law of liberty lo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the Romane State flouriſhed.</p>
+            <p>But for want of this liberty, from libelling the Republique of <hi>Fl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>renc<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> fell into factions, and ſoone was its ruine, <hi>felix quem faciunt aliena</hi> p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tis<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>la cautum,</hi> ſuch a law to <hi>England</hi> would be profitable, if duly executed but alas! through the prevalencie and potencie of ſome in authority, is become now leſſe dangerous to act the treaſon, then to diſcover, or a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>cuſe the traytor.</p>
+            <p>For inſtance, Sir <hi>William Armyn</hi> who hath by indirect, meanes an ille<g ref="char:EOLunhyphen"/>gal choyce, got his ſonne, a beard leſſe boy, to be brought into the honou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>rable Houſe of Commons, was ſo bold, as to tell Lieut. Col. <hi>Beacker,</hi> th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> if he appeared or acted againſt that grand traytor <hi>Lawſon,</hi> it would unde<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> him, hinder his preferment, and thereby loſe all his friends in the Hou<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of Commons.</p>
+            <p>And Mr. <hi>Barris</hi> a Member of your Houſe, ſent his man into our Cou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>trey, and cauſed by him or through his meanes to be read in publike a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ſemblies, that whoſoever would deny their ſubſcriptions with us again<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <hi>Lawſon,</hi> ſhould not be puniſhed. I know a Yorkſhire Gentleman that wa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ted upon the Houſe of Commons more then half a year, with a charge <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> diſcovery of the treaſonable practiſes, and great oppreſſions of Mr. <hi>Th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> the Lawyer, amongſt many other his wicked practiſes againſt the Parlia<g ref="char:EOLunhyphen"/>ment and his Country: this Lawyer, firſt by perſwaſion, then by threat attempted to have got Sir <hi>Iohn Hotham</hi> to betray his truſt, and to her delivered up <hi>Hull</hi> to the Kings party.</p>
+            <p>But upon Sir <hi>Iohns</hi> refuſall, Mr. <hi>Thorpe</hi> cauſed that then deſervin<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Gentleman (that Sir <hi>I. H.</hi> had retained ſtill his integrity) to be proclaim<g ref="char:EOLunhyphen"/>ed Traytor by a Harrolds at Armes, but not a <hi>Yorkſhire</hi> Gentleman of th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Houſe would preſent the ſame, now Mr. <hi>Thorpe</hi> is a Parliament man, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in the Houſe of Commons in that great Councel unqueſtioned, untryed no man may ſit in your Houſe unleſſe he take your Covenant, but if Cove<g ref="char:EOLunhyphen"/>nant-breakers
+<pb n="9" facs="tcp:114201:6"/>were put to death, as of old in Iſrael many of the great <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ge<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> thereof would not eſcape, in all this I blame not the Houſe but ſome <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rupted Members thereof that falſyfie and betray their truſt, and as much as in them lies, ſeeke the deſtruction of that Houſe and their Countrey, it <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>reth with that honourable houſe, as of old with King <hi>Antiochus,</hi> who being hunting on a time in purſule of his game, he ſtrayed from his com<g ref="char:EOLhyphen"/>pany and Courtiers, and ſo was inforced to take up a poor mans Cottage for his Inne, as the King ſate at ſupper with his Country Hoſt, and his poore people, he began to diſcourſe with them concerning the Kings go<g ref="char:EOLhyphen"/>vernment: whereupon the poor people replyed, that <hi>Antiochus</hi> was of himſelf a very good King, but he committed the mannaging of his affairs as his friends and Courtiers, who were ill men; himſelfe meane while out of his over-much love to hunting, negligently omitted neceſſary things, whereby his people were oppreſſed, and things ill governed, the King for that time held his prace; but the next morning when his Guard and Courtiers had found him out at the Cottage, bringing him his pur<g ref="char:EOLhyphen"/>ple Robe and Crown, the King thereupon ſaid to his Courtiers, from the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y I firſt received my Crown, I never heard true ſpeeche of my ſelf be<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> yeſterday; if that honourable houſe did h<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e what the poors of the <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ntry, yea, and in all other parts ſpeak of them, they would ſay no other <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Antiochus</hi> did, and would follow the adviſe of <hi>Th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>opom<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>us,</hi> who be<g ref="char:EOLhyphen"/>ing demanded by what meanes a King might ſafely hold his Kingdome, replyed, if he gave his friends free liberty of ſpeech, and avenge the i<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ies and wrongs done his people, for that the latter can never bee well performed without granting of the former.</p>
+            <p>Now the Kings friends be thoſe, &amp; no other, of what ſect or religion ſoe<g ref="char:EOLhyphen"/>ver they be, &amp; indeed non can be enemies to the Parliament, whether Cove<g ref="char:EOLhyphen"/>nantors or non-covenantors, Presbyterians or Independents, ſo they bee friends to peace, and lovers of juſtice and their country, from this couſi<g ref="char:EOLhyphen"/>deration I could wiſh our honourable Parliament Lords and Commons, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>o are ſemented together into one body, would with <hi>An<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nine,</hi> that good Emperour, allow free exerciſe of Religion to their friends, as the wiſe and now flouriſhing States of the <hi>Netherlands</hi> doe, and in doing ju<g ref="char:EOLhyphen"/>ſtice impartially (for Juſtice now of late ſtands a far of) and is become a <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>anger in our Land, would imitate <hi>Romes</hi> liberty, teſtore <hi>Brutus</hi> who for <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>is peoples ſafety and preſerving their liberties, choſed his owne two <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, with ſome other Nobles, for affecting tyrannie, and attempting to in<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> the people to their lawleſſe wils, publikely to be whipt in the Mar<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> place, &amp; then to be brought to the block, &amp; beheaded, the like exem<g ref="char:EOLhyphen"/>plary
+<pb n="10" facs="tcp:114201:7"/>juſtice King <hi>Alfred,</hi> within this Kingdome did, he not only provi<g ref="char:EOLhyphen"/>ded for good Lawes, but took care for the better ordering and due admi<g ref="char:EOLhyphen"/>niſtration of juſtice, to have the ſame exactly obſerved: in one yeare h<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> put to death 44 wicked and corrupt Judges, for their falſe judgments, the fruits whereof was ſuch as notwithſtanding multituds of ſouldiers were continually employed, yet it is recorded, that in his dayes a Virgin might have travelled along through all his Dominions, without any violence of<g ref="char:EOLhyphen"/>fered her, and that bracelets of gold were hanged in the high-wayes, and no man ſo bold as to take them away, yet then theft was not puniſhed with death: the chiefe Juſtice of the Kings Bench in King <hi>H.</hi> 4. his time, faithfully and as an honeſt Judge, diſcharged his place, when hee ſpared not to commit the Prince for a Riot to priſon, no priviledge or protecti<g ref="char:EOLhyphen"/>on was then pleaded, however not allowed: Hereas was the King diſ<g ref="char:EOLhyphen"/>pleaſed? nay he much rejoyced, in that he had a Sonne ſo obedient to his Lawes, and a Judge ſo upright and bold, in adminiſtring of Juſtice with<g ref="char:EOLhyphen"/>out feare or favour.</p>
+            <p>But Juſtice <hi>Bacon,</hi> who now ſupplies that place, the other day did <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>re otherwiſe, he being petitioned unto by my country woman <hi>Mary Bl<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>th<g ref="char:EOLhyphen"/>waite,</hi> whom I mentioned before, to bee admitted into <hi>Forma Pu<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>,</hi> would not allow her to ſue Sir <hi>Willifrid Lawſon,</hi> becauſe a great man, and then high Sheriffe of <hi>Cumberland,</hi> But againſt ſome mean ones, who ear<g ref="char:EOLhyphen"/>ryed her to priſon upon Sir <hi>Willfred Lawſons</hi> warrant, he allowed her to proceed and proſecute.</p>
+            <p>This nothing agreeeh with the Oath of a Judge, but if our corrupt Judges had received from our Parliament the like puniſhments for the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> falſe judgments for Ship-money, as <hi>Siz<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>us</hi> did from <hi>Cambiſes,</hi> ſuch as ſucceeded in their places would have been more carefull and conſcious in the diſcharge of their duty: for I read that <hi>Cambiſes</hi> cauſed this <hi>Sizam<g ref="char:EOLhyphen"/>nus,</hi> being one of his Judges to be flaid alive, for an unjuſt judgment given by him, and his skin to be hung up over the judgment Seate; after which he beſtowing the Fathers office on the ſonne, willed him to remember, that the ſame partiality deſerved the ſame judgment.</p>
+            <p>Let Judges and Juſtices eſcape with fining, it wil not much trouble them, a part of their ill-gotten wealth will not onely diſcharge the ſame, but ſoon reſtate them in their old places: for moſt of them were mercenary men be<g ref="char:EOLhyphen"/>fore they were made Judges, and lawes or diſtinctions they ever have in ſtore to pleaſe Kings, &amp; ſatisfie States and times, though never ſo corrupted. While I was writing this my letter, Judge <hi>Ienkins Vindication</hi> was brought unto me, wherein he condemnes, and would ani<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ilate the whole procee<g ref="char:EOLhyphen"/>dings, Orders and Ordinances of this preſent Parliament ever ſince the
+<pb n="11" facs="tcp:114201:7"/>Kings departure as illegal, and not binding for want of the Kings conſent. I and if God permit, to ſet forth and diſcover the vanity and wickedneſſe <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>eof at large; for the preſent I deſire him to read the Abuſions of the <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>mon Law written by <hi>Andrew Horne</hi> in the time of King <hi>Edward</hi> the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, in his mirrour of Juſtice: The firſt and chiefe Abuſion of the law, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Horne</hi> an approved Authout) is, that the King is ſet above the Law, <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>eas he ought to be ſubject to it, as it contained in his oath. I would <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ly then know of Judge <hi>Jenkins,</hi> if the King be under and ſubject to the law, how he or any other is to be proceeded againſt for tranſgreſſing the law where his conſent is not, if the ſame be neceſſary, as the cauſe <hi>ſins <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on:</hi> With <hi>Horne,</hi> Judge <hi>Forteſcue</hi> afterwards Chancellour to King <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ry</hi> 6. agreeth, who telleth us that <hi>England</hi> is a kingdome political, and ſayth, <hi>Adtutelam legis ſubditorum &amp; corum co<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>porum Rex eſt erectus, &amp; h<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> preſtatem à populo effluxam ipſe habet, quo ei non licet poteſtate alia ſuo popula <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>nari Forteſeue folio</hi> 32. The King is made for the defence of the law of is ſubjects, and of their bodies and goods, whereunto hee receiveth the power of his people; ſo as he cannot governe his people by any other pow<g ref="char:EOLhyphen"/>er. Then he tells you how the Kings of <hi>Egypt</hi> firſt lived, not after the licenti<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> manner of after Kings; but keep themſelves as private perſons in ſubje<g ref="char:EOLhyphen"/>ction to the law, as alſo did the <hi>Ethyopian</hi> Kings order their lives according to the lawes, aſſigning neither reward nor puniſhment otherwiſe then law appoynted. And with <hi>Forteſcue</hi> concurre the two great Maximes of the Common law, often cited by <hi>Cook,</hi> and other Sages of the Law. 1. The Common law hath ſo admeaſured the Kings prerogative, that it cannot take may the inheritance of any. 2. <hi>Nihil tam proprium eſt imperti, quam legi<g ref="char:EOLhyphen"/>l<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> vivere:</hi> There is nothing ſo proper to ruling, as to live by laws.</p>
+            <p>Now if the body politick, which is the people, or the repreſentative body the Parliament, could not without the Kings conſent act, then by his pre<g ref="char:EOLhyphen"/>rogative he might hinder the due execution of the law, contrary to the firſt approved Maxime, the ſtatute law confirmeth the ſame, <hi>Marl. Br. chap.</hi> 5.52. <hi>Hen.</hi> 3. <hi>Magna Charta. In ſingulis teneatur tam in his quae ad Regem partinent quam <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lies, Magna</hi> ſhal be holden for good as well in thoſe things that appertain to the King, as to others: So as all pretence of prerogative againſt the execution of the law, or adminiſtration of juſtice, is taken away. And indeed it may be ſayd the people give lawes to the King, but the King cannot give any law to the people without their conſent; ſo as Regality in it ſelfe is good, and for the good of the people; and what ill cuſtome or <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d lawes are brought in, the ſame bee by our own default, and not the Kings: for the people are the law-makers. The next Abuſion of the law that <hi>Horne</hi> cites, is, that we have not a Parliament every halfe yeare, that is
+<pb n="12" facs="tcp:114201:8"/>to ſay, Parliament men changed and elected anew, and no ſtrangers but re<g ref="char:EOLhyphen"/>ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nts, according to the Common and Statute law: which done, would prevent much faction, oppreſſion, partiality and injuſtice. I may adde a third abuſe, as the King by his prerogative impriſoned, ſo for the Parlia<g ref="char:EOLhyphen"/>ment whether by Lords or Commons, to impriſon before the party bee brought to their Barre, vnleſſe for want of Baile, is againſt the common law: for by the common law before conviction, no man having baile may be impriſoned either for Felony or Treaſonn, <hi>Cook</hi> 2. <hi>part. Instit. fol.</hi> 189. And ſo the ſame is a disfranchizing of the Subject of his Free-hold and Birth-right: And however it cannot be juſtified to keep any in priſon lon<g ref="char:EOLhyphen"/>ger then the next Goal-delivery after the party be committed. Herein <hi>Scot<g ref="char:EOLhyphen"/>land</hi> is praiſe-worthy; no Priſoner there longer detained for debt, then one yeare, and to be provided for at the Plaintifes charge, if the priſoner be not able to maintain himſelfe, and no priſoner for any contempt or felony be<g ref="char:EOLhyphen"/>yond the next ordinary Seſſions, which is commonly every quarter of a yeare, and ſometimes oftner: There wants nothing to make that people happy, but a free tolleration of exerciſe of religion, whereby every man may ſerve God in the way he is perſwaded is moſt approveable, and not be compelled to live by anothers, or a blind and implicit faith Romaniſt-like, they have there lawes pleaded and recorded in their owne na<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ive tongue and no ſuch delay of juſtice, nor the like, exceſſive, and exorbitant fees as with us, for indeed though it be ſaid in our law, we wil ſell juſtice to no man; yet have we neither proceſſe nor proceedings recorded, but in an unknown tongue, and bought at a deare ra<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, oftentimes driven to ſpend more in one Terme, beſides our travell, then the thing in queſtion is worth.</p>
+            <p>But no more of this ſubject for the preſent, I will return again to ſpeak a little concerning my ſelfe, and ſo I have done,</p>
+            <p>
+               <hi>Sir,</hi> I have been here a priſoner this 18. moneths, and was committed upon a fa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe report, as refuſing to anſwer interrogatories, ſince the Spea<g ref="char:EOLhyphen"/>ker preſented my Petition, and procured it to be committed, though ne<g ref="char:EOLhyphen"/>ver yet taken into examination by the Committee is 18. moneths, a thing never heard of before, that a Parliament Committee, whereof there be 29. Parliament men in 18 moneths not to meet together, about a buſineſſe of ſo great and generall concernment, not one man that ſits in the Houſe in the right of our Country, once in all that time to ſpeake one word in our Countries behalfe, nor do me the favour as to preſent a peti<g ref="char:EOLhyphen"/>tion for me, unleſſe I would decline, and betray my Countries cauſe, which if I would have done, ſundry of them, and others of the houſe; whom I can name, would not onely have undertaken the preſenting of
+<pb n="13" facs="tcp:114201:8"/>my petition, but likewiſe promiſed me to procute me my liberty, there names I will forbeare for the preſent to mention, for I take no pleaſure to diſcover their ſhame, unleſſe they force me to it: but this I may ſay, and truly our caſe and condition now, is as b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d as the Brittaines were of old, when they writ to <hi>Action</hi> the Romane, thus to <hi>Actius</hi> thrice Con<g ref="char:EOLhyphen"/>ſul, the Sighes of the Brittaines, the barbarous enemy bo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tes us to the Sea, the Sea beates us back to the enemy, we are either murdered or drowned I leave the application to you, and ſay no more but this, if you will pre<g ref="char:EOLhyphen"/>ſent this my petition to the houſe, procure us juſtice, and an impar<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iall &amp; ſpeedy tryall, upon the hazard of my life, I will undertake to prove our charge, and make good what I write, having ſaid nothing either for con<g ref="char:EOLhyphen"/>tention or oſtentation, but for neceſſity and juſtice, in teſtimony whereof he ſubſcribes his name, who is yours, if you will honeſtly diſcharge your place and truſt for our Countrey, by which you have the honour to ſit in the higheſt Judicature in the Kingdome.</p>
+            <closer>
+               <signed>IOHN MVSGRAVE.</signed>
+               <dateline>
+                  <hi>Fleet Priſon</hi> 
+                  <date>
+                     <hi>the</hi> 5. <hi>Moneth, called Moy the</hi> 6. 1647. <hi>and the</hi> 10. <hi>day of the</hi> 19. <hi>Moneth of my impriſon<g ref="char:EOLhyphen"/>men<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> for Countries cauſe and freedome.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="postscript">
+            <head>POSTSCRIPT.</head>
+            <p>SInce I was committed to this P<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſon, I could never obtaine that favour to go into the Town, yea, not with a keeper, either for my healths ſake, or a<g ref="char:EOLhyphen"/>bout my own or mothers buſineſſe, who is ſo ſore oppreſſed by our Country Com<g ref="char:EOLhyphen"/>mittee with us, as out of <hi>200. <abbr>l.</abbr>
+               </hi> a yeare, ſhee hath not received <hi>20. <abbr>l.</abbr>
+               </hi> this three yeeres, and for <hi>20. <abbr>l.</abbr>
+               </hi> a year, I nor mine have not had <hi>40. <abbr>s.</abbr>
+               </hi> ſince I came into this Priſon, the King gave noble allowances to his priſoners, though men of good estates, to ſome <hi>3 <abbr>l.</abbr>
+               </hi> a weeke, who have ſince had for their impriſonment <hi>5000 <abbr>l</abbr>
+               </hi> a wan from the Parliament: But they are Parliament men, but we your p<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>r priſoners, though we have done better ſervice for you, then ſome of thoſe to when you give thouſands, and have committed nothing deſerving this our impriſonment; yet cannot have ſo much favour from you as common juſtice, which you allow to Rogues, Thieves, and Murderers in N<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>wgate every Seſſi<g ref="char:EOLhyphen"/>o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to wit, a legall tryall, which we have petitioned for, and cannot have it, you are ſo far from giving us reparations for our lo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>es and plu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ders we have ſuſtain<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d, for maintaining your cauſe, as you put us to that extremity as to make <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> poore priſoners, pay Ex<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſe for the ſ<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>leſt c<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>p of be<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re wee drinke,
+<pb n="14" facs="tcp:114201:9"/>for the old was raiſing many by ſubſedge, and not by Country, then the rich would bear their equall burthen, wh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re now the poore paye<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the greateſt ſ<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> to maintain you in your ſilkes and fattens, Satan-like.</p>
+            <p>But for Traytors, upon Mr. Knightleyes ticket, they can have liberty to go abroad, without any keeper; not only to go abroad into the Towne, but alſo to go into the Country. Nay, I can name ſome priſoners committed for trea<g ref="char:EOLhyphen"/>ſon, and exempted from pardon in the Propoſitions ſent to the King, upon their word, have liberty to goe abroad, yea to reſide at their own dwelling houſes. Whether this be not the height of Arbytrary power, or no, conſider? and how this agreeth with your Covenant ſo much urged, I know not; and what in<g ref="char:EOLhyphen"/>couragement this may be for us, or any honeſt man that is not mercenary, or a dependant upon ſome of you, to ſpend our eſtates, and venture our lives for you in the future, as formerly we have done, let God and the World judge.</p>
+            <closer>
+               <signed>J. M.</signed>
+            </closer>
+         </div>
+         <div type="petition">
+            <head>The deplorable condition of Iohn Muſgrave, Commiſſioner for the well-aff<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>cted party in <hi>Cumberland Weſtmerland,</hi> preſented to the Honourable Houſe of Commons aſſembled in Parliament.</head>
+            <p>MAY it pleaſe you to conſider, what obſtructions I have met with in attending this Honourable Houſe, in preſenting my conſciences grievances, ſince <hi>Aprill</hi> 1645. beſides 13. weekes attendance, the winter before, uſing what lawfull meanes poſſibly I could to preſent my Coun<g ref="char:EOLhyphen"/>tries oppreſſions to this houſe, under thoſe that were ſet in Authority o<g ref="char:EOLhyphen"/>ver our Countrey for the Parliament, moſt of them having been before very active, or in office for the King againſt the Parliament. At length Mr. <hi>Blackſtone</hi> did undertake to preſent the ſame, which he did afterwards preſent to the Houſe, and was by the Houſe committed after I was gone downe into the Countrey, having wayted for preſenting them 13. weeks as aforeſaid, then tould he ſome friends of mine here in the Towne, what he had done, they might ſend me word that our buſineſſe wanted but a man to follow it, And in <hi>Aprill</hi> following, 1645. I came to Towne with Mr. <hi>Oſmotherley,</hi> a Commiſſioner with me, appointed by the well-af<g ref="char:EOLhyphen"/>fected of <hi>Cumberland</hi> and <hi>Weſtmerland,</hi> hoping to have had audience, and not doubting to have our grievances redreſſed? but when we came to <hi>London,</hi> Mr. <hi>Blackſtone</hi> deſerted us, and denyed what he had done for us, but we having got the order for committing our former Charge, after
+<pb n="15" facs="tcp:114201:9"/>our grievances were reade at the Committee, and reported to the Houſe, Mr. <hi>Blackſtone</hi> upon his motion in the Houſe, procured an order to have the Charge delivered back to me, which was done accordingly by Sir <hi>Thomas Withrington,</hi> Chaireman of that Committee: then we ſought all meanes we could to preſent our Countries grievances by other Mem<g ref="char:EOLhyphen"/>bers but could not get them preſented: afterwards we fell acquainted with the Scots Commiſſioners, who ſoone procured them to be preſen<g ref="char:EOLhyphen"/>ted with their papers to their Honourable Houſe in <hi>Iuly</hi> following, and by the Houſe was then referred to a Committee for the Scots papers, whereof Mr. <hi>Liſley</hi> was Chaireman, that they might examin our papers together with the Scots papers given in againſt M. <hi>Bar<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>is</hi> and others of whom we complayned, but the Committee layd our papers aſide, refu<g ref="char:EOLhyphen"/>ſing to receive them before they had examined us upon interrogatories, to ſome of them we then anſwered, (being then ignorant of our liber<g ref="char:EOLhyphen"/>ty) having not ſeen<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the order of the Houſe. The next day that the Com<g ref="char:EOLhyphen"/>mittes ſate, they would have proceeded in examining us, before they would receive our papers, but we having then the order of the Houſe (which we had not before) the ſame being to receive our papers, and not to examine us upon interrogatories, we then replyed, that the order of the Houſe was to receive our papers which we deſired they would, and if they would put ou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> buſineſſe in a way of tryall we offered to make good our Charge againſt Mr. <hi>Barwis</hi> and others of whom we complained, or according to law to ſuffer puniſhment, The Committee having read our papers, moved the Houſe to inable them with authority to examine us upon in<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rrogatories, which Mr. <hi>O<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>motherley</hi> refuſed to do, ſaying it was againſt <hi>Magn<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Charta,</hi> and the liberty of the ſubject, but I refuſed not to anſwer, when ſuch order was obtained from the Houſe, but deſired a <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>opy of the interrogatories; or to have liberty to write them my ſelfe from their <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>thes, and they to figne them, that ſo I might conſult with Councel as I had done before, we gave in our Charge, and this I con<g ref="char:EOLhyphen"/>ceive was the priviledge of every free borned o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>en, but the Committee would not grant me that liberty, then I conceived by the order of the Houſe, I was not bound to anſwer extempore, eſpecially the Committee doore being ſhut, my friends kept out, and ſome againſt whom I articled permitted to be preſent with their hats on their heads allowed to aske as queſtions and examinus: whereupon I deſired the Committee to move the Houſe that I might have the interrogatories in writing to peruſe be<g ref="char:EOLhyphen"/>fore I were put to anſwer them, &amp; that Mr. <hi>Barwis,</hi> and thoſe of whom the Scots Commiſſioners and we complayned might firſt anſwer, and make their defence to the Scots Commiſſioners, and our Charge before <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> were put to make proofe or examine witneſſes, &amp; I offered to under<g ref="char:EOLhyphen"/>take
+<pb n="16" facs="tcp:114201:10"/>take to proſecute and make good my Charge, as I hoped the See's Com<g ref="char:EOLhyphen"/>miſſioners could and would do theirs, the Committee then miſſed that they would acquaint the Houſe with my deſire, and ſome of them did ſay, that my requeſt was reaſonable, notwithſtanding all this, Mr. <hi>Liſley</hi> miſ<g ref="char:EOLhyphen"/>reporteth to the Houſe, how that I had contemptuouſly, refuſed to anſwer Interrogatories, not making any mention of Mr. <hi>Oſmotherleyes</hi> refuſing to anſwer Interrogatories upon the order of the Houſe, wherein not onely Mr. <hi>Liſley</hi> his parciality, but likewiſe his intention and d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſire to obſtruct Juſtice plainly appeareth, upon which report made by Mr. <hi>Liſley,</hi> I was committed <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o the Fleete, by an order of the Houſe, of the 27. of <hi>October</hi> 1645. as contemp<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ibly refuſing to anſwer Interrogatories, after this be<g ref="char:EOLhyphen"/>ing <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n priſon, I ſent a letter to Mr. Speaker, dated the 28. of <hi>October</hi> 1645. wi h a Petition incloſed to the Honourable Houſe of Commons, which Letter and Petition the honourable Speaker preſented, and procured to be openly read, and deb<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ted in the Houſe, upon the 8, of <hi>November</hi> 1645. and both the letter and Petition was referred to the ſame Committee, for the Scots papers, and <hi>Liſley</hi> being the Chairman thereof and then preſent, but preſently af er my Letter and Petition was committed, and <hi>Liſley</hi> then withdrew h mſelfe for along time, and came not to the Houſe after Mr. Liſley came to have a Copy of the order for the committing my Let<g ref="char:EOLhyphen"/>ter and Petition being procured, the ſame was ſent in a letter from Colo<g ref="char:EOLhyphen"/>nell <hi>Rigby</hi> a member of the Houſe, deſiring him to take ſome courſe about me, and my Countries buſineſſe. But his anſwer was to my friends that came to him from Colonell <hi>Rigby,</hi> that if Colonel <hi>Rigby</hi> or Sir <hi>Thomas Wi<g ref="char:EOLhyphen"/>thrington,</hi> who knew me and my cauſe, would doe any thing, they might; but he could doe nothing: which was as much as to ſay, (as I conceive) he would doe nothing, although the houſe had ordered otherwiſe. And ſince the time my letter and petition was committed upon Mr. <hi>Speakers</hi> preſen<g ref="char:EOLhyphen"/>ting, I have written many letters, and ſent petitions therein incloſed both to them that ſate in the Houſe in the right of our Countrey, and to others of the Houſe alſo, intreating them to preſent mine and my Countries grie<g ref="char:EOLhyphen"/>vances to the Houſe; and doubting the juſtice of the Houſe, being once tru<g ref="char:EOLhyphen"/>ly informed of my ſtate, and my Countries cauſe; yea, and if I might have legall and impartiall hearing, I doubt not but to make it appeare that Mr. <hi>Liſley</hi> is in the contempt in diſobeying and ſlighting the orders of the Houſe. That Committee having power from this Honorable Houſe, to ſend for me as often as they would; but to this day was I never ſent for by him or that Committee: Therefore I conceive, that Mr. <hi>Liſley</hi> and that Committee to be the cauſe of my continued bonds, and Countries long oppreſſions, for his and their non-obſervance of the Houſes Orders; by which meanes ju<g ref="char:EOLhyphen"/>ſtice
+<pb facs="tcp:114201:10"/>hath been obſtructed a long time. And ſuch as the Parliament hat<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> declared Traytors and grand enemies (being diſabled and prohibited by ſe<g ref="char:EOLhyphen"/>verall ordinances of Parliament, to beare any Offices,) divers of them yet uncompounded for their Treaſons and Delinquencies, are yet upheld in places of power and truſt, to over-rule and oppreſſe our Countrey now un<g ref="char:EOLhyphen"/>der the Parliament, more then when they acted for the enemy, as I can prove and ſhew by many letters written to me before I was committed to this priſon. And in reference to my ſelfe, if I have in the leaſt offended a<g ref="char:EOLhyphen"/>gainſt any of the juſt Lawes, Priviledges, Orders or proceedings of this Houſe, I am haertily ſorry, though I am no wayes conſcious to my ſelfe, that I have offended in the leaſt, but have ever been tender of the juſt and lawfull Priviledges, Orders, and proceedings of this Houſe, together with the liberties, Rights, and Franchiſes of the meaneſt ſubject: For which, and my affection to the Parliament, I was impriſoned halfe a yeare by the Commiſſioners of Array, and Juſtices of peace in <hi>Cumberland,</hi> after driven to live in exile for two yeares, and that little meanes I had poſſeſſed by the enemy. And when it ſhall be made appeare, that I have offended this Honorable Houſe in the premiſes, or in any other thing, then I ſhall not not onely co<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>feſſe my fault and error publickly to the whole kingdom; but alſo willingly and cheerfully ſubmit my ſelf to the judgment and cenſure of this Honorable Houſe, to undergoe what puniſhment this Houſe ſhal think ſin Therefore my humble requeſt is, that this honorable Houſe will take my take my cauſe into conſideration, to enlarge me from my bonds, and put mine and my Countries cauſe into a legall way of triall, and enable me with power to proſecute my ſeverall charges, and give unto me and my countrey juſt and fitting reparations for our loſſes and wrongs we have ſuſtained, agreeable to the wiſdome and juſtice of this Honourable Houſe: And if we make not good our ſeverall charges, then to puniſh us according to the law; and not to refer me over, nor our countries cauſe to an Arbitrary, partiall and Juſtice-delaying Committee. But that I may be brought to your Barre, or ſome other publick tryell. And then I no<g ref="char:EOLhyphen"/>thing doubt but to cleare my ſelfe of the contempt unjuſtly laid to my charge; and for which I have ſuffered 18 Moneths hard and cloſe impri<g ref="char:EOLhyphen"/>ſonment. And if I may but have the benefit of the Law, to make good our particular chrrges againſt thoſe of whom we complaine. And as in duty bound, I ſhall ever pray to, and praiſe God for you.</p>
+            <closer>
+               <signed>JO. MUSGRAVE.</signed>
+               <date>
+                  <hi>Fleet</hi> 5. <hi>May,</hi> 1647. <hi>and</hi> 9. <hi>day of</hi> 19. <hi>Months of my impriſonment.</hi>
+               </date>
+            </closer>
+         </div>
+         <div type="continuation">
+            <p>I have for theſe laſt foure moneths had ſome friends daily attending up<g ref="char:EOLhyphen"/>on Maj. <hi>Salloway,</hi> Mr. <hi>Allan,</hi> Mr. <hi>Laurence,</hi> Mr. <hi>Bellingham,</hi> for preſenting, this my petition; but after they had the ſame a long time, they returned i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> back to me, refuſing to do it. Mr. <hi>Bellingham</hi> ſaid, he could not <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb n="16" facs="tcp:114201:11" rendition="simple:additions"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:114201:11" rendition="simple:additions"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:114201:12"/>it unleſſe I could ſhew authority to command him: not many dayes ſince, Mr. <hi>Rigby</hi> moved the Houſe for my liberty, but Mr. <hi>Tolſon,</hi> the knight of the Shire for <hi>Cumberland,</hi> one of the new election, ſtood up againſt me, and de<g ref="char:EOLhyphen"/>ſired I might no<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> be enlarged till I acknowledged my fault: for ſayd he, it is againſt the order of the Houſe, to enlarge any without acknowledgment of their offence; and ſo I loſt the benefit of Mr. <hi>Rigbys</hi> motion. I muſt not be enlarged without petition, and all refuſe to preſent my petition conſi<g ref="char:EOLhyphen"/>der mine and my countries ſad condition. If you deſire to know what this Mr. <hi>Tolſon</hi> is, he is no other then a <hi>beardleſſe Minor,</hi> taken the other day from the <hi>Gramm<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ſchoole,</hi> and now elected by a delinquent Sheriffe, through the votes of Malignants and delinquents of <hi>Cumberland,</hi> by Mr. <hi>Bar<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> procure ment. <hi>Tolſon</hi> being the meaneſt family of any of the Gentry in the North. Not long before <hi>Tolſon</hi> was brought into the Houſe, he came from the enemies garriſon then at <hi>Oxford,</hi> his Father a neu<g ref="char:EOLhyphen"/>trall, and had his eſtate protected by the enemy, Mr. <hi>Tolſon,</hi> Mr. <hi>Barwis,</hi> the L. <hi>Wharton,</hi> &amp; others that ſit in the Houſe in the right of our County, procured the commiſſions for <hi>Oyer &amp; Terminer,</hi> and goal-delivery, directed to be decla<g ref="char:EOLhyphen"/>red traytors, M. <hi>Tolſon</hi> &amp; his father are great perſecuters of honeſt men, under the name of Sectaries and independents; but favour and protect Papiſts and Malignants. Mr. <hi>Bellingham</hi> the Knight of the Shire for <hi>Weſtmerland;</hi> is ſo yo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g as he hath not any haire of his face, refuſeth to informe the Houſe how the Committee for Accounts of <hi>Weſtmerland</hi> &amp; <hi>Cumberland</hi> were declared tray<g ref="char:EOLhyphen"/>tors, and men accountable, and ſo betrayeth his truſt and his Countrey, as his father before him did; who being the Knight of the Shire, is his ſon is new in his ſtead, in the beginning of theſe troubles left the Parliament, yet profeſſed to his countrey for a time he would not joyn with the enemy; but traiterouſly and deceitfully (when his Countrey expected he would have ſtood up with them for the Parl.) deſerted them, and joyned with the enemy, to the loſſe of that countrey, was after a Colonel for the King, very active againſt the the Parl. and one of the <hi>Oxford Juncto,</hi> his ſonne begins to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>. When hee came into the Houſe he promſed fairly, but now begins to trend in his fathers tract. Theſe <hi>Ianus</hi> and <hi>Sinon</hi>-lik<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> men, whether o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d or young, be the peſt of a <hi>Common-wealth,</hi> and the worſt and moſt dangerous enemies any State can have, not fit to be truſted or imployed in any office, Martiall or Civill; ſel<g ref="char:EOLhyphen"/>dome you can confide in the ſon, where the father hath betrayed you. Beware ever of a reconciled foe, and time-ſervers. <hi>Farewell.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>PROV. 28.15.</hi>
+               </bibl>
+               <p>As a roaring Lion and a ranging Beare, ſo is <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> wicked Ruler over the poore people.</p>
+            </q>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <p>
+               <hi>P.</hi> 2. l. 3 for <hi>Wilford Ermine</hi> r. <hi>William Ermine.</hi> line 37. for <hi>Scotiſh,</hi> r. <hi>I Scotiſh,</hi> p. 3. l. 20. for undeſerved r. undeſired. l. 38, for faith, r. South. p. 5. l. 15. for 11. r. 22. p. 6. l. 23. for K. <hi>Stephen,</hi> r. K. <hi>William.</hi> l. 23. for cleare, read bleare.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
